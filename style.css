@@ -1,0 +1,25 @@
+.footer {
+    background-color: rgb(75, 0, 0);
+}
+#contactButton{
+    max-width: 25em;
+}
+
+#btnSubmit {
+    appearance: none;
+    border: none;
+    background-color: rgb(134, 7, 7);
+    padding: 0.25rem 0.5rem;
+    color: rgb(117, 0, 0);
+    border-radius: 5px;
+    transition: all 250ms ease;
+}
+
+.navbar {
+    background: linear-gradient(to right, #01024b, #333); /* black to dark gray */
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+  }
